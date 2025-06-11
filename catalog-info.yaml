@@ -16,6 +16,7 @@ metadata:
     dev.azure.com/project-repo: katka-rhtap/katka-node-azure
     dev.azure.com/project: shared-public
     dev.azure.com/build-definition: katka-rhtap.katka-node-azure
+    dev.azure.com/host-org: dev.azure.com/rhtap-test
     quay.io/repository-slug: kkanova0/node
   tags: ["nodejs", "express", "ubi8", "sscs", "sbom", "acs"] 
 spec:
